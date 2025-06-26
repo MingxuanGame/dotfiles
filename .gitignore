@@ -1,0 +1,15 @@
+# Logs
+.config/OpenTabletDriver/Logs/
+
+# Clash verge
+.local/share/io.github.clash-verge-rev.clash-verge-rev/
+
+# Disabled
+*.disabled
+
+# Scripts
+scripts/last_os
+
+# Python
+*.pyc
+__pycache__/
