@@ -112,3 +112,5 @@ alias pacmanclean='sudo pacman -Rns (pacman -Qtdq)'
 
 # Get the error messages from journalctl
 alias jctl="journalctl -p 3 -xb"
+
+thefuck --alias | source
