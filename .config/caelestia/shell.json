@@ -41,7 +41,7 @@
             "weatherWidth": 250
         },
         "visualiserBars": 45,
-        "weatherLocation": ""
+        "weatherLocation": "Changchun"
     },
     "launcher": {
         "actionPrefix": ">",
@@ -82,9 +82,9 @@
     "notifs": {
         "actionOnClick": false,
         "clearThreshold": 0.3,
-        "defaultExpireTimeout": 3000,
+        "defaultExpireTimeout": 5000,
         "expandThreshold": 20,
-        "expire": false,
+        "expire": true,
         "sizes": {
             "badge": 20,
             "image": 41,
